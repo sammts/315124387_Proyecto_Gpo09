@@ -102,14 +102,15 @@ int main()
     Shader lightingShader("Shaders/lighting.vs", "Shaders/lighting.frag");
 
 
-
     // Load models
-    Model pokearriba((char*)"Models/Pokeball2/pokearriba.obj");
+   /* Model pokearriba((char*)"Models/Pokeball2/pokearriba.obj");
     Model pokeabajo((char*)"Models/Pokeball2/pokeabajo.obj");
     Model centro((char*)"Models/Pokeball2/centro.obj");
     Model cuerpo((char*)"Models/Pokeball2/centrocuerpo.obj");
 	Model tree((char*)"Models/Planta/tree.obj");
-	Model barra((char*)"Models/Reception/reception.obj");
+	Model barra((char*)"Models/Reception/reception.obj");*/
+	Model fachada((char*)"Models/Fachada/fachada.obj");
+
     glm::mat4 projection = glm::perspective(camera.GetZoom(), (float)SCREEN_WIDTH / (float)SCREEN_HEIGHT, 0.1f, 100.0f);
 
     float vertices[] = {
@@ -245,9 +246,10 @@ int main()
         glUniformMatrix4fv(glGetUniformLocation(lightingShader.Program, "model"), 1, GL_FALSE, glm::value_ptr(model));
         glBindVertexArray(VAO);
         //glDrawArrays(GL_TRIANGLES, 0, 36);
-        tree.Draw(lightingShader);
+        //tree.Draw(lightingShader);
 
-		barra.Draw(lightingShader);
+		//barra.Draw(lightingShader);
+		fachada.Draw(lightingShader);
 
 
 		//glUniform3f(glGetUniformLocation(lightingShader.Program, "material.diffuse"), 1.0f, 1.0f, 1.0f);
