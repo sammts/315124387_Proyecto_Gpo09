@@ -113,6 +113,7 @@ int main()
 	Model sofa((char*)"Models/Sofa/sofa.obj");
 	Model mesa((char*)"Models/Mesa/mesa.obj");
 	Model sillas((char*)"Models/Sillas/sillas.obj");
+	Model arbol((char*)"Models/Arbol/arbol.obj");
 
 
     glm::mat4 projection = glm::perspective(camera.GetZoom(), (float)SCREEN_WIDTH / (float)SCREEN_HEIGHT, 0.1f, 100.0f);
@@ -257,6 +258,7 @@ int main()
 		sofa.Draw(shader);
 		mesa.Draw(shader);
 		sillas.Draw(shader);
+		arbol.Draw(lightingShader);
 
 
 		//glUniform3f(glGetUniformLocation(lightingShader.Program, "material.diffuse"), 1.0f, 1.0f, 1.0f);
