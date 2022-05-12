@@ -1,0 +1,257 @@
+newmtl pasted__pasted__tree_a_lambert70SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_a_lambert70SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_a_lambert74SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_a_lambert74SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_b_lambert71SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_b_lambert71SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_b_lambert72SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_b_lambert72SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_b_lambert73SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__pasted__tree_b_lambert73SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__polySurface72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl pasted__tree_a_lambert70SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco.jpg
+Ni 1.00
+newmtl pasted__tree_a_lambert70SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco.jpg
+Ni 1.00
+newmtl pasted__tree_a_lambert70SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco.jpg
+Ni 1.00
+newmtl pasted__tree_a_lambert70SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco.jpg
+Ni 1.00
+newmtl pasted__tree_a_lambert74SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_a_lambert74SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_a_lambert74SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_a_lambert74SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert71SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert71SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert71SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert71SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert72SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert72SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert72SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert73SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert73SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert73SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl pasted__tree_b_lambert73SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl polySurface72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tree_a_lambert70SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tronco.jpg
+Ni 1.00
+newmtl tree_a_lambert74SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl tree_b_lambert71SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl tree_b_lambert72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00
+newmtl tree_b_lambert73SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hojas.jpg
+Ni 1.00

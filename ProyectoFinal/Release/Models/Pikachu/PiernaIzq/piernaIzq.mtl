@@ -1,0 +1,108 @@
+newmtl Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Pikachu_PikachuEyeDh_PikachuEyeDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuEyeDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Pikachu_PikachuHohoDh_PikachuHohoDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuHohoDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Pikachu_PikachuMouthDh_PikachuMouthDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuMouthDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl brazoIzq_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl cabeza_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl cola_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl cuerpo_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl orejaDer_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl orejaIzq_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl piernaDer_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl piernaIzq_Pikachu_PikachuDh_PikachuDh_png2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PikachuDh.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
