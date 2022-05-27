@@ -281,6 +281,8 @@ int main()
 
 	Model barra((char*)"Models/Reception/recepcion.obj");
 	Model fachada((char*)"Models/Fachada/fachada.obj");
+	Model fachada2((char*)"Models/Fachada2/fachada2.obj");
+	Model camilla((char*)"Models/Camilla/camilla.obj");
 	Model sofa((char*)"Models/Sofa/sofa.obj");
 	Model mesa((char*)"Models/Mesa/mesa.obj");
 	Model sillas((char*)"Models/Sillas/sillas.obj");
@@ -290,6 +292,10 @@ int main()
 	Model agua((char*)"Models/Agua/agua.obj");
 	Model tree_a((char*)"Models/Tree/Tree_a/tree_a.obj");
 	Model tree_b((char*)"Models/Tree/Tree_b/tree_b.obj");
+	Model cerca((char*)"Models/Cerca/cerca.obj");
+	Model mesa2((char*)"Models/Mesa2/mesa2.obj");
+	Model escritorio((char*)"Models/Escritorio/escritorio.obj");
+	Model chair((char*)"Models/Chairdesk/chair.obj");
 	
 	//Model maquina((char*)"Models/Maquina/maquina.obj");
 	Model maquina_b((char*)"Models/Maquina/Maquina_b/maquinaB.obj");
@@ -595,10 +601,16 @@ int main()
 		enc_b.Draw(lightingShader);
 		//maquina.Draw(lightingShader);
 		tree_a.Draw(lightingShader);
+		camilla.Draw(lightingShader);
+		cerca.Draw(lightingShader);
+		mesa2.Draw(lightingShader);
+		escritorio.Draw(lightingShader);
+		chair.Draw(lightingShader);
 		
 
 		model = glm::mat4(1);
-		model = glm::translate(model, glm::vec3(-10.5f,3.0f,0.0f));
+		model = glm::translate(model, glm::vec3(3.38f,2.25f,-24.485f));
+		model = glm::scale(model, glm::vec3(0.8f,0.9f,0.8f));
 		model = glm::rotate(model, glm::radians(rot2), glm::vec3(0.0f, 1.0f, 0.0));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		maquina_b.Draw(lightingShader);
@@ -677,6 +689,7 @@ int main()
 		model = glm::translate(model, glm::vec3(0.0f, 0.06f, 0.0f));
 		glUniformMatrix4fv(modelLoc, 1, GL_FALSE, glm::value_ptr(model));
 		fachada.Draw(lightingShader);
+		fachada2.Draw(lightingShader);
 		
 		glDisable(GL_BLEND); //Desactiva el canal alfa 
 		glUniform4f(glGetUniformLocation(lightingShader.Program, "colorAlpha"), 1.0, 1.0, 1.0, 1.0);

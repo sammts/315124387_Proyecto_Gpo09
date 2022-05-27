@@ -1,15 +1,21 @@
-newmtl initialShadingGroup
+newmtl fachada_initialShadingGroup
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-newmtl lambert2SG
+newmtl fachada_lambert2SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd white.jpeg
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
 Ni 1.00
 newmtl lambert3SG
 illum 4
@@ -179,7 +185,7 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd aluminio.jpg
 Ni 1.00
-newmtl pasted__lambert3SG6
+newmtl pasted__lambert3SG7
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
@@ -200,7 +206,14 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd naranja.jpg
 Ni 1.00
-newmtl pasted__lambert8SG2
+newmtl pasted__lambert8SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd naranja.jpg
+Ni 1.00
+newmtl pasted__lambert8SG6
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
@@ -214,6 +227,20 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd tronco.jpg
 Ni 1.00
+newmtl pasted__lambert33SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd salida.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert3SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd aluminio.jpg
+Ni 1.00
 newmtl pasted__pasted__lambert3SG6
 illum 4
 Kd 0.00 0.00 0.00
@@ -222,6 +249,13 @@ Tf 1.00 1.00 1.00
 map_Kd aluminio.jpg
 Ni 1.00
 newmtl pasted__pasted__lambert8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd naranja.jpg
+Ni 1.00
+newmtl pasted__pasted__lambert8SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
@@ -263,22 +297,6 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd blanco.jpg
 Ni 1.00
-newmtl pasted__wire_204204204
-illum 4
-Kd 0.80 0.80 0.80
-Ka 0.80 0.80 0.80
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.35 0.35 0.35
-Ns 32.00
-newmtl pasted__wire_204204208
-illum 4
-Kd 0.80 0.80 0.80
-Ka 0.80 0.80 0.80
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.35 0.35 0.35
-Ns 32.00
 newmtl recepcion_pasted__lambert13SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -314,32 +332,3 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd blanco.jpg
 Ni 1.00
-newmtl sofa_lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd negro_t.jpg
-Ni 1.00
-newmtl sofa_lambert3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd blanco.jpg
-Ni 1.00
-newmtl sofa_lambert6SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd azul.jpeg
-Ni 1.00
-newmtl wire_204204204
-illum 4
-Kd 0.80 0.80 0.80
-Ka 0.80 0.80 0.80
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.35 0.35 0.35
-Ns 32.00
